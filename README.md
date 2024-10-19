@@ -1,9 +1,9 @@
  # Team info
 
-Frank Djidingar Monbe
-Sophie Tiberghien
-AIcrowd: ST_DMF
-Group 9
+Frank Djidingar Monbe\
+Sophie Tiberghien\
+AIcrowd: ST_DMF\
+Group 9\
 
 
 # Predicting temperature around nuclear waste cannister
