@@ -3,7 +3,7 @@
 Frank Djidingar Monbe\
 Sophie Tiberghien\
 AIcrowd: ST_DMF\
-Group 9\
+Group 9
 
 
 # Predicting temperature around nuclear waste cannister
