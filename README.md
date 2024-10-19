@@ -1,7 +1,7 @@
  # Team info
 
-Frank Djidingar Monbe		316435\
-Sophie Tiberghien			282240\
+Frank Djidingar Monbe	
+Sophie Tiberghien		
 AIcrowd: ST_DMF\
 Group 9
 
