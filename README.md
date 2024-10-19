@@ -3,6 +3,8 @@
 Frank Djidingar Monbe\
 Sophie Tiberghien\
 AIcrowd: ST_DMF\
+AIcrowd project link : https://www.aicrowd.com/challenges/predict-measurements-for-nuclear-waste-canister#
+
 Group 9
 
 
