@@ -1,10 +1,11 @@
  # Team info
 
-Frank Djidingar Monbe\
+Frank Djidingar Monbe
 
-Sophie Tiberghien\		
+Sophie Tiberghien		
 
-AIcrowd: ST_DMF\
+AIcrowd: ST_DMF
+
 Group 9
 
 
