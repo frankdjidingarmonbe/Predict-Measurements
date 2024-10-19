@@ -26,3 +26,10 @@ The project is composed of 3 notebooks:\
 		Neural_Network_Code.ipynb\
 \
 The notebook should be run in the following order 1, 2, 3
+
+
+# Poster
+\
+The poster explain shortly what our code does, and what are the main ideas and implementations we have done to solve the task.
+
+
