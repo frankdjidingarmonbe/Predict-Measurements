@@ -4,7 +4,7 @@ Frank Djidingar Monbe		316435\
 Sophie Tiberghien			282240\
 AIcrowd: ST_DMF\
 Group 9\
-\
+
 
 # Predicting temperature around nuclear waste cannister
 \
