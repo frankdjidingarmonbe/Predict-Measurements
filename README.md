@@ -23,4 +23,4 @@ The project is composed of 3 notebooks:\
 	3)The neural network model:\
 		Neural_Network_Code.ipynb\
 \
-The notebook should be run in the following order 1, 2, 3}
+The notebook should be run in the following order 1, 2, 3
